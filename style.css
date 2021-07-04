@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+}
+
+.link-header{
+    color: palevioletred;
+    text-decoration: none;
+    font-size: 30px;
+    background-color: darkblue;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+.link-header:hover{
+    color: darkblue;
+    text-decoration: none;
+    font-size: 30px;
+    background-color: palevioletred;
+    border-radius: 15px;
+    padding: 5px;
+    transition: 1s linear;
+}
+
+.link-nav{
+    color: darkblue;
+    margin: 5px;
+    font-size: 20px;
+    background-color: palevioletred;
+    text-decoration: none;
+    padding: 3px;
+    border-radius: 10px;
+}
+.link-nav:hover{
+    color: palevioletred;
+    margin: 5px;
+    font-size: 20px;
+    background-color: darkblue;
+    text-decoration: none;
+    padding: 3px;
+    border-radius: 10px;
+    transition: 1s linear;
+}
+h1{
+    color: deeppink;
+    background-color: darkmagenta;
+    margin: 5px;
+    font-size: 28px;
+    text-decoration: none;
+    padding: 5px;
+    margin-left: 10px;
+    border-radius: 10px;
+    width: 200px;
+    text-align: center;
+}
+
+li{
+    font-size: 20px;
+    color: darkblue;
+}
