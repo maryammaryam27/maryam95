@@ -10,6 +10,7 @@ body {
     background-color: darkblue;
     border-radius: 15px;
     padding: 5px;
+    margin-right: 55px;
 }
 
 .link-header:hover{
@@ -60,6 +61,15 @@ li{
     color: darkblue;
 }
 
+ul {
+    position: absolute;
+    list-style-position: inside;
+    left: 150px;
+}
+
+ol {
+    list-style-position: inside;
+}
 .istorii {
     margin-top: 100px;
 }
